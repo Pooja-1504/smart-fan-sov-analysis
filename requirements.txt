@@ -1,0 +1,30 @@
+# Core dependencies
+python-dotenv>=1.0.0
+requests>=2.32.0
+pandas>=2.2.0
+numpy>=1.26.0
+tqdm>=4.66.0
+pydantic>=2.7.0
+
+# Web framework for dashboard
+flask>=3.0.0
+flask-cors>=4.0.0
+
+# Search APIs
+google-search-results>=2.4.0
+google-api-python-client>=2.137.0
+
+# NLP and text processing
+nltk>=3.9.0
+rapidfuzz>=3.9.0
+
+# Data storage and visualization
+pyarrow>=16.1.0
+plotly>=5.24.0
+
+# Testing
+pytest>=8.3.0
+
+#Stronger sentiment analysis with transformers and torch
+transformers>=4.44.0
+torch>=2.4.0
