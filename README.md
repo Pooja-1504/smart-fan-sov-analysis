@@ -115,7 +115,7 @@ OUTPUT_FORMAT=both  # csv, json, both
 SAVE_RAW_DATA=true
 ```
 
-## 🎮 **Usage Examples**
+## Usage Examples
 
 ### **Web Dashboard**
 ```bash
